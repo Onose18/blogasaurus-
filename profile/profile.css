@@ -1,0 +1,22 @@
+#Username{
+  padding-bottom: 40px;
+  font-size: 20px;
+}
+
+#FullName{
+  padding-bottom: 40px;
+  font-size: 20px;
+}
+
+#Age{
+  padding-bottom: 40px;
+  font-size: 20px;
+}
+
+#password{
+  font-size: 20px;
+}
+
+body{
+  background-color: #808080;
+}
